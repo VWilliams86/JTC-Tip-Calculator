@@ -2,7 +2,7 @@
 
 ##JTC-Tip-Calculator
 
-Calculate your sales tax and tip when dinging with multiple people
+Calculate your sales tax and tip when eating with multiple people
 
 # Handy dandy tip calculator to split your bill evenly !
 
