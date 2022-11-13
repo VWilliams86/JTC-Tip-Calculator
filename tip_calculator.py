@@ -26,7 +26,7 @@ def calculator():
     print (f'Total amount due per person!!!: ${tip_due}')
     
 
-#Ask if the customer would like to add anaditional tip to check, and continue to ask until they say no. 
+#Ask if the customer would like to add anaditional tip to check, and lscontinue to ask until they say no. 
 def additional_tip_request():
     additional_tip = input("Would you like to calculate a new bill? Type yes or no:")
     while  additional_tip == "yes":
