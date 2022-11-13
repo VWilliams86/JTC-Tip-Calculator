@@ -11,7 +11,7 @@ Calculate your sales tax and tip when eating with multiple people
 
 ### Learning Objectives
 
-Learn how to define functions, call floats, booleans, and while loops
+Learn how to define functions, call floats, and while loops
 
 ### Assignment Overview
 
@@ -20,8 +20,8 @@ Follow the instructions in 'tip_calculator.py' to complete the challenge.
 ## Summary
 
 1. Clone the repo to your computer
-2. Follow the instructions in `restaurant_data.py`
-3. From the main folder of the challenge, run ''tip_calculator.py'.
+2. Follow the instructions in `README.md`
+3. From the main folder of the challenge, run 'tip_calculator.py'.
 4. `git add`, `git commit`, `git push` your code, and look for the little green check mark on your repo that tells you your tests passed
 
 
