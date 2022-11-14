@@ -11,10 +11,10 @@ Calculate your sales tax and tip when eating with multiple people
 
 ### Learning Objectives
 
-Learn how to define functions, call floats, and while loops
+Learn how to define functions, call floats,  while loops, and try and except block for errors.  End result will be a usable Tip calculator that will provide, tax, tip amount per person, as well as total bill. After first function is called the calculator will use a While loop to ask user if they would like to calculate another bill and tip ( this will contiue until user types NO).
 
 ### Assignment Overview
-
+A
 Follow the instructions in 'tip_calculator.py' to complete the challenge. 
 
 ## Summary
